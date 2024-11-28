@@ -1,0 +1,394 @@
+FilePath;Label
+../../../classifier_data/traindata/Invoice 1.png;Rechnung
+../../../classifier_data/traindata/invoice_1.png;Rechnung
+../../../classifier_data/traindata/invoice_2.png;Rechnung
+../../../classifier_data/traindata/invoice_3.png;Rechnung
+../../../classifier_data/traindata/invoice_4.png;Rechnung
+../../../classifier_data/traindata/invoice_5.png;Rechnung
+../../../classifier_data/traindata/invoice_6.png;Rechnung
+../../../classifier_data/traindata/invoice_7.png;Rechnung
+../../../classifier_data/traindata/invoice_8.png;Rechnung
+../../../classifier_data/traindata/invoice_9.png;Rechnung
+../../../classifier_data/traindata/invoice_10.png;Rechnung
+../../../classifier_data/traindata/invoice_11.png;Rechnung
+../../../classifier_data/traindata/invoice_12.png;Rechnung
+../../../classifier_data/traindata/invoice_13.png;Rechnung
+../../../classifier_data/traindata/invoice_14.png;Rechnung
+../../../classifier_data/traindata/invoice_15.png;Rechnung
+../../../classifier_data/traindata/invoice_16.png;Rechnung
+../../../classifier_data/traindata/invoice_17.png;Rechnung
+../../../classifier_data/traindata/invoice_18.png;Rechnung
+../../../classifier_data/traindata/invoice_19.png;Rechnung
+../../../classifier_data/traindata/invoice_20.png;Rechnung
+../../../classifier_data/traindata/invoice_21.png;Rechnung
+../../../classifier_data/traindata/invoice_22.png;Rechnung
+../../../classifier_data/traindata/invoice_23.png;Rechnung
+../../../classifier_data/traindata/invoice_24.png;Rechnung
+../../../classifier_data/traindata/invoice_25.png;Rechnung
+../../../classifier_data/traindata/invoice_26.png;Rechnung
+../../../classifier_data/traindata/invoice_27.png;Rechnung
+../../../classifier_data/traindata/invoice_28.png;Rechnung
+../../../classifier_data/traindata/invoice_29.png;Rechnung
+../../../classifier_data/traindata/invoice_30.png;Rechnung
+../../../classifier_data/traindata/invoice_31.png;Rechnung
+../../../classifier_data/traindata/invoice_32.png;Rechnung
+../../../classifier_data/traindata/invoice_33.png;Rechnung
+../../../classifier_data/traindata/invoice_34.png;Rechnung
+../../../classifier_data/traindata/invoice_35.png;Rechnung
+../../../classifier_data/traindata/invoice_36.png;Rechnung
+../../../classifier_data/traindata/invoice_37.png;Rechnung
+../../../classifier_data/traindata/invoice_38.png;Rechnung
+../../../classifier_data/traindata/invoice_39.png;Rechnung
+../../../classifier_data/traindata/invoice_40.png;Rechnung
+../../../classifier_data/traindata/invoice_41.png;Rechnung
+../../../classifier_data/traindata/invoice_42.png;Rechnung
+../../../classifier_data/traindata/invoice_43.png;Rechnung
+../../../classifier_data/traindata/invoice_44.png;Rechnung
+../../../classifier_data/traindata/invoice_45.png;Rechnung
+../../../classifier_data/traindata/invoice_46.png;Rechnung
+../../../classifier_data/traindata/invoice_47.png;Rechnung
+../../../classifier_data/traindata/invoice_48.png;Rechnung
+../../../classifier_data/traindata/invoice_49.png;Rechnung
+../../../classifier_data/traindata/invoice_50.png;Rechnung
+../../../classifier_data/traindata/invoice_51.png;Rechnung
+../../../classifier_data/traindata/invoice_52.png;Rechnung
+../../../classifier_data/traindata/invoice_53.png;Rechnung
+../../../classifier_data/traindata/invoice_54.png;Rechnung
+../../../classifier_data/traindata/invoice_55.png;Rechnung
+../../../classifier_data/traindata/invoice_56.png;Rechnung
+../../../classifier_data/traindata/invoice_57.png;Rechnung
+../../../classifier_data/traindata/invoice_58.png;Rechnung
+../../../classifier_data/traindata/invoice_59.png;Rechnung
+../../../classifier_data/traindata/invoice_60.png;Rechnung
+../../../classifier_data/traindata/delivery_note_1.png;Lieferschein
+../../../classifier_data/traindata/delivery_note_2.png;Lieferschein
+../../../classifier_data/traindata/delivery_note_3.png;Lieferschein
+../../../classifier_data/traindata/delivery_note_4.png;Lieferschein
+../../../classifier_data/traindata/delivery_note_5.png;Lieferschein
+../../../classifier_data/traindata/delivery_note_6.png;Lieferschein
+../../../classifier_data/traindata/delivery_note_7.png;Lieferschein
+../../../classifier_data/traindata/delivery_note_8.png;Lieferschein
+../../../classifier_data/traindata/delivery_note_9.png;Lieferschein
+../../../classifier_data/traindata/delivery_note_10.png;Lieferschein
+../../../classifier_data/traindata/delivery_note_11.png;Lieferschein
+../../../classifier_data/traindata/delivery_note_12.png;Lieferschein
+../../../classifier_data/traindata/delivery_note_13.png;Lieferschein
+../../../classifier_data/traindata/delivery_note_14.png;Lieferschein
+../../../classifier_data/traindata/delivery_note_15.png;Lieferschein
+../../../classifier_data/traindata/delivery_note_16.png;Lieferschein
+../../../classifier_data/traindata/standard_contract_1.png;Vertrag
+../../../classifier_data/traindata/standard_contract_2.png;Vertrag
+../../../classifier_data/traindata/standard_contract_3.png;Vertrag
+../../../classifier_data/traindata/standard_contract_4.png;Vertrag
+../../../classifier_data/traindata/standard_contract_5.png;Vertrag
+../../../classifier_data/traindata/standard_contract_6.png;Vertrag
+../../../classifier_data/traindata/standard_contract_7.png;Vertrag
+../../../classifier_data/traindata/standard_contract_8.png;Vertrag
+../../../classifier_data/traindata/standard_contract_9.png;Vertrag
+../../../classifier_data/traindata/standard_contract_10.png;Vertrag
+../../../classifier_data/traindata/standard_contract_11.png;Vertrag
+../../../classifier_data/traindata/standard_contract_12.png;Vertrag
+../../../classifier_data/traindata/standard_contract_13.png;Vertrag
+../../../classifier_data/traindata/standard_contract_14.png;Vertrag
+../../../classifier_data/traindata/standard_contract_15.png;Vertrag
+../../../classifier_data/traindata/standard_contract_16.png;Vertrag
+../../../classifier_data/traindata/cv_v3_1-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_2-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_3-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_4-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_5-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_6-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_7-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_8-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_9-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_10-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_11-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_12-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_13-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_14-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_15-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_16-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_17-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_18-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_19-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_20-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_21-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_22-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_23-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_24-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_25-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_26-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_27-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_28-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_29-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_30-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_31-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_32-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_33-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_34-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_35-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_36-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_37-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_38-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_39-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_40-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_41-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_42-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_43-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_44-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_45-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_46-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_47-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_48-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_49-1.png;Lebenslauf
+../../../classifier_data/traindata/cv_v3_50-1.png;Lebenslauf
+../../../classifier_data/traindata/certificate_v3_1-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_2-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_3-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_4-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_5-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_6-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_7-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_8-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_9-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_10-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_11-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_12-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_13-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_14-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_15-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_16-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_17-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_18-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_19-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_20-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_21-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_22-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_23-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_24-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_25-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_26-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_27-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_28-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_29-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_30-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_31-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_32-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_33-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_34-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_35-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_36-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_37-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_38-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_39-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_40-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_41-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_42-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_43-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_44-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_45-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_46-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_47-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_48-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_49-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/certificate_v3_50-1.png;Arbeitszeugnis
+../../../classifier_data/traindata/contract_1-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_2-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_3-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_4-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_5-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_6-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_7-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_8-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_9-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_10-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_11-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_12-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_13-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_14-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_15-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_16-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_17-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_18-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_19-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_20-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_21-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_22-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_23-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_24-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_25-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_26-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_27-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_28-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_29-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_30-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_31-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_32-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_33-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_34-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_35-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_36-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_37-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_38-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_39-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_40-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_41-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_42-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_43-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_44-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_45-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_46-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_47-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_48-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_49-1.png;Mietvertrag
+../../../classifier_data/traindata/contract_50-1.png;Mietvertrag
+../../../classifier_data/traindata/purchase_contract_1 (1)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (2)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (3)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (4)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (5)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (6)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (7)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (8)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (9)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (10)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (11)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (12)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (13)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (14)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (15)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (16)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (17)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (18)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (19)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (20)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (21)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (22)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (23)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (24)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (25)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (26)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (27)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (28)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (29)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (30)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (31)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (32)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (33)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (34)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (35)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (36)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (37)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (38)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (39)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (40)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (41)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (42)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (43)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (44)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (45)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (46)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (47)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (48)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (49)-1.png;Kaufvertrag
+../../../classifier_data/traindata/purchase_contract_1 (50)-1.png;Kaufvertrag
+../../../classifier_data/traindata/report_1-1.png;Jahresbericht
+../../../classifier_data/traindata/report_2-1.png;Jahresbericht
+../../../classifier_data/traindata/report_3-1.png;Jahresbericht
+../../../classifier_data/traindata/report_4-1.png;Jahresbericht
+../../../classifier_data/traindata/report_5-1.png;Jahresbericht
+../../../classifier_data/traindata/report_6-1.png;Jahresbericht
+../../../classifier_data/traindata/report_7-1.png;Jahresbericht
+../../../classifier_data/traindata/report_8-1.png;Jahresbericht
+../../../classifier_data/traindata/report_9-1.png;Jahresbericht
+../../../classifier_data/traindata/report_10-1.png;Jahresbericht
+../../../classifier_data/traindata/report_11-1.png;Jahresbericht
+../../../classifier_data/traindata/report_12-1.png;Jahresbericht
+../../../classifier_data/traindata/report_13-1.png;Jahresbericht
+../../../classifier_data/traindata/report_14-1.png;Jahresbericht
+../../../classifier_data/traindata/report_15-1.png;Jahresbericht
+../../../classifier_data/traindata/report_16-1.png;Jahresbericht
+../../../classifier_data/traindata/report_17-1.png;Jahresbericht
+../../../classifier_data/traindata/report_18-1.png;Jahresbericht
+../../../classifier_data/traindata/report_19-1.png;Jahresbericht
+../../../classifier_data/traindata/report_20-1.png;Jahresbericht
+../../../classifier_data/traindata/report_21-1.png;Jahresbericht
+../../../classifier_data/traindata/report_22-1.png;Jahresbericht
+../../../classifier_data/traindata/report_23-1.png;Jahresbericht
+../../../classifier_data/traindata/report_24-1.png;Jahresbericht
+../../../classifier_data/traindata/report_25-1.png;Jahresbericht
+../../../classifier_data/traindata/report_26-1.png;Jahresbericht
+../../../classifier_data/traindata/report_27-1.png;Jahresbericht
+../../../classifier_data/traindata/report_28-1.png;Jahresbericht
+../../../classifier_data/traindata/report_29-1.png;Jahresbericht
+../../../classifier_data/traindata/report_30-1.png;Jahresbericht
+../../../classifier_data/traindata/report_31-1.png;Jahresbericht
+../../../classifier_data/traindata/report_32-1.png;Jahresbericht
+../../../classifier_data/traindata/report_33-1.png;Jahresbericht
+../../../classifier_data/traindata/report_34-1.png;Jahresbericht
+../../../classifier_data/traindata/report_35-1.png;Jahresbericht
+../../../classifier_data/traindata/report_36-1.png;Jahresbericht
+../../../classifier_data/traindata/report_37-1.png;Jahresbericht
+../../../classifier_data/traindata/report_38-1.png;Jahresbericht
+../../../classifier_data/traindata/report_39-1.png;Jahresbericht
+../../../classifier_data/traindata/report_40-1.png;Jahresbericht
+../../../classifier_data/traindata/report_41-1.png;Jahresbericht
+../../../classifier_data/traindata/report_42-1.png;Jahresbericht
+../../../classifier_data/traindata/report_43-1.png;Jahresbericht
+../../../classifier_data/traindata/report_44-1.png;Jahresbericht
+../../../classifier_data/traindata/report_45-1.png;Jahresbericht
+../../../classifier_data/traindata/report_46-1.png;Jahresbericht
+../../../classifier_data/traindata/report_47-1.png;Jahresbericht
+../../../classifier_data/traindata/report_48-1.png;Jahresbericht
+../../../classifier_data/traindata/report_49-1.png;Jahresbericht
+../../../classifier_data/traindata/report_50-1.png;Jahresbericht
+../../../classifier_data/traindata/statement_1-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_2-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_3-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_4-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_5-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_6-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_7-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_8-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_9-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_10-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_11-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_12-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_13-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_14-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_15-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_16-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_17-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_18-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_19-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_20-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_21-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_22-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_23-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_24-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_25-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_26-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_27-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_28-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_29-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_30-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_31-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_32-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_33-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_34-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_35-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_36-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_37-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_38-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_39-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_40-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_41-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_42-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_43-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_44-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_45-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_46-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_47-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_48-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_49-1.png;Jahresabschluss
+../../../classifier_data/traindata/statement_50-1.png;Jahresabschluss
